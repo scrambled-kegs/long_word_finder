@@ -1,0 +1,6 @@
+dog
+cat
+head
+rat
+animal
+catastrophic
